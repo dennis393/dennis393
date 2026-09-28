@@ -37,7 +37,7 @@
 
 ## 🚀 Проекты
 
-### 🔍 [Сервис мониторинга репутаций](https://github.com/dennis393/Automated_review_collection_and_reputation_monitoring_service)
+### 🔍 [Сервис_автоматического_сбора_отзывов_и_мониторинга_репутаций (Совместный проект)](https://github.com/dennis393/Automated_review_collection_and_reputation_monitoring_service)
 Автоматический сбор отзывов с площадок, AI-генерация черновиков ответов, Telegram-интеграция.  
 `Python`, `FastAPI`, `SQLAlchemy ORM(async), `Alembic`, `JWT(Fernet(cryptography), bcript`, `Celery` `Redis` `aiogram` `LLM API` `PostgreSQL`,`react + vite`
 
@@ -49,11 +49,4 @@
 REST API для управления задачами с JWT-аутентификацией.  
 `Python`, `FastAPI` `SQLAlchemy ORM` `JWT` `PostgreSQL`
 
----
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dennis393&show_icons=true&theme=dark&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dennis393&layout=compact&theme=dark&hide_border=true" height="150"/>
-</div>
