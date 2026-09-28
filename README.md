@@ -39,7 +39,7 @@
 
 ### 🔍 [Сервис_автоматического_сбора_отзывов_и_мониторинга_репутаций (Совместный проект)](https://github.com/dennis393/Automated_review_collection_and_reputation_monitoring_service)
 Автоматический сбор отзывов с площадок, AI-генерация черновиков ответов, Telegram-интеграция.  
-`Python`, `FastAPI`, `SQLAlchemy ORM(async), `Alembic`, `JWT(Fernet(cryptography), bcript`, `Celery`, `Redis`, `aiogram`, `LLM API`, `PostgreSQL`,`react + vite`
+`Python`, `FastAPI`, `SQLAlchemy ORM(async)`, `Alembic`, `JWT(Fernet(cryptography)`, `bcript`, `Celery`, `Redis`, `aiogram`, `LLM API`, `PostgreSQL`,`react + vite`
 
 ### [AI Chatbot в Telegram](https://github.com/dennis393/Ai-chatbot-in-telegram)
 Телеграм-бот с интегрированным AI, поддержка контекста диалога и истории переписки.  
