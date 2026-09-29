@@ -7,7 +7,7 @@
 Строю API и интегрирую AI в реальные продукты
 
 <a href="https://t.me/ImDenis3_9">
-  <img src="./telegram.svg" width="100" alt="Telegram">
+  <img src="./telegram.svg" width="50" alt="Telegram">
 </a>
  <a href="denispris14@gmail.com">
     <img src="./mail.svg" width="100" alt="Email">
