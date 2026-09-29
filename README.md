@@ -45,18 +45,28 @@
 </p>
 
 
-
-
-
-
-
 | Область | Технологии |
 |------|-------------|
 | **Backend** | Python · FastAPI · Asyncio · Pydantic |
 | **Базы данных** | PostgreSQL · SQLite · SQLAlchemy · Alembic |
-| **Фоновые задачи** | Celery · Redis |
+| **Фоновые задачи** | Celery |
 | **Боты** | aiogram |
 | **AI** | LLM API (OpenRouter) |
 | **Тестирование** | Pytest |
 | **DevOps** | Docker · Git |
 
+## 🚀 Проекты
+
+### 🔍 [Сервис_автоматического_сбора_отзывов_и_мониторинга_репутаций (Совместный проект)](https://github.com/dennis393/Automated_review_collection_and_reputation_monitoring_service)
+Автоматический сбор отзывов с площадок, AI-генерация черновиков ответов, Telegram-интеграция.  
+`Python`, `FastAPI`, `SQLAlchemy ORM(async)`, `Alembic`, `JWT(Fernet(cryptography), bcript`, `Celery`, `Redis`, `aiogram`, `LLM API`, `PostgreSQL`, `react + vite`
+
+### [AI Chatbot в Telegram](https://github.com/dennis393/Ai-chatbot-in-telegram)
+Телеграм-бот с интегрированным AI, поддержка контекста диалога и истории переписки.  
+`Python`, `FastAPI`, `PostgreSQL`, `aiogram`, `LLM API`, `SQLAlchemy ORM`
+
+### ✅ [Task Manager API](https://github.com/dennis393/task-manager-api)
+REST API для управления задачами с JWT-аутентификацией.  
+`Python`, `FastAPI`, `SQLAlchemy ORM`, `JWT`, `PostgreSQL`
+
+**Я открыт к предложениям о работе на позиции Backend-разработчика, к сотрудничеству и интересным проектам. Для быстрой связи пишите мне в telegram: @ImDenis3_9**
