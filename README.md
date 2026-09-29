@@ -10,7 +10,7 @@
   <img src="./telegram.svg" width="50" alt="Telegram">
 </a>
 <a href="denispris14@gmail.com">
-    <img src="./mail.svg" width="80" alt="Email">
+    <img src="./mail.svg" width="50" alt="Email">
 
 </div>
 
