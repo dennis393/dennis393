@@ -25,37 +25,43 @@
 
 ---
 
-### 🛠 Tech Stack
+<h3>🛠 Tech Stack</h3>
 
-<p align="left">
-  <img src="https://shields.io" alt="Python" />
-  <img src="https://shields.io" alt="FastAPI" />
-  <img src="https://shields.io" alt="Django" />
-  <img src="https://shields.io" alt="PostgreSQL" />
-  <img src="https://shields.io" alt="Redis" />
-  <img src="https://shields.io" alt="Docker" />
-  <img src="https://shields.io" alt="Git" />
-  <img src="https://shields.io" alt="GitHub" />
-  <img src="https://shields.io" alt="Postman" />
-  <img src="https://shields.io" alt="Linux" />
-</p>
+<!-- Иконки из верхнего ряда -->
+<div>
+  <img src="https://shields.io" alt="Python" style="margin-right: 5px;"/>
+  <img src="https://shields.io" alt="FastAPI" style="margin-right: 5px;"/>
+  <img src="https://shields.io" alt="Django" style="margin-right: 5px;"/>
+  <img src="https://shields.io" alt="PostgreSQL" style="margin-right: 5px;"/>
+  <img src="https://shields.io" alt="Redis" style="margin-right: 5px;"/>
+  <img src="https://shields.io" alt="Docker" style="margin-right: 5px;"/>
+  <img src="https://shields.io" alt="Git" style="margin-right: 5px;"/>
+  <img src="https://shields.io" alt="GitHub" style="margin-right: 5px;"/>
+  <img src="https://shields.io" alt="Postman" style="margin-right: 5px;"/>
+  <img src="https://shields.io" alt="Linux" style="margin-right: 5px;"/>
+</div>
+
+<br/>
 
 <!-- Текстовые плашки (бирюзовый цвет) -->
-<p align="left">
-  <img src="https://shields.io" alt="Asyncio" />
-  <img src="https://shields.io" alt="Pydantic" />
-  <img src="https://shields.io" alt="SQLAlchemy" />
-  <img src="https://shields.io" alt="Alembic" />
-  <img src="https://shields.io" alt="Celery" />
-  <img src="https://shields.io" alt="Pytest" />
-  <img src="https://shields.io" alt="JWT" />
-  <img src="https://shields.io" alt="Aiogram" />
-</p>
+<div>
+  <img src="https://shields.io" alt="Asyncio" style="margin-right: 5px;"/>
+  <img src="https://shields.io" alt="Pydantic" style="margin-right: 5px;"/>
+  <img src="https://shields.io" alt="SQLAlchemy" style="margin-right: 5px;"/>
+  <img src="https://shields.io" alt="Alembic" style="margin-right: 5px;"/>
+  <img src="https://shields.io" alt="Celery" style="margin-right: 5px;"/>
+  <img src="https://shields.io" alt="Pytest" style="margin-right: 5px;"/>
+  <img src="https://shields.io" alt="JWT" style="margin-right: 5px;"/>
+  <img src="https://shields.io" alt="Aiogram" style="margin-right: 5px;"/>
+</div>
 
-<p align="left">
-  <img src="https://shields.io" alt="Telegram Mini Apps" />
-  <img src="https://shields.io" alt="LLM" />
-</p>
+<br/>
+
+<div>
+  <img src="https://shields.io" alt="Telegram Mini Apps" style="margin-right: 5px;"/>
+  <img src="https://shields.io" alt="LLM" style="margin-right: 5px;"/>
+</div>
+
 
 
 | Область | Технологии |
