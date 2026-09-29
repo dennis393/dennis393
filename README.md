@@ -18,7 +18,7 @@
 
 ## 👋 Обо мне
 
-Я **Python Backend Developer** и **LLM Integrator**.  
+Я **Python Backend Developer** и **LLM Integrator из Ташкента, Узбекистан**.  
 Моя база - Python backend: API, базы данных, асинхронные сервисы и фоновые задачи.  
 Параллельно разрабатываю собственный продукт и интегрирую LLM в реальные задачи.
 
