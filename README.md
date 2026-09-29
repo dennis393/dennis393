@@ -25,42 +25,14 @@
 
 ---
 
-<h3>🛠 Tech Stack</h3>
+### 🛠 Tech Stack
 
-<!-- Иконки из верхнего ряда -->
-<div>
-  <img src="https://shields.io" alt="Python" style="margin-right: 5px;"/>
-  <img src="https://shields.io" alt="FastAPI" style="margin-right: 5px;"/>
-  <img src="https://shields.io" alt="Django" style="margin-right: 5px;"/>
-  <img src="https://shields.io" alt="PostgreSQL" style="margin-right: 5px;"/>
-  <img src="https://shields.io" alt="Redis" style="margin-right: 5px;"/>
-  <img src="https://shields.io" alt="Docker" style="margin-right: 5px;"/>
-  <img src="https://shields.io" alt="Git" style="margin-right: 5px;"/>
-  <img src="https://shields.io" alt="GitHub" style="margin-right: 5px;"/>
-  <img src="https://shields.io" alt="Postman" style="margin-right: 5px;"/>
-  <img src="https://shields.io" alt="Linux" style="margin-right: 5px;"/>
-</div>
+![Python](https://shields.io) ![FastAPI](https://shields.io) ![Django](https://shields.io) ![PostgreSQL](https://shields.io) ![Redis](https://shields.io) ![Docker](https://shields.io) ![Git](https://shields.io) ![GitHub](https://shields.io) ![Postman](https://shields.io) ![Linux](https://shields.io)
 
-<br/>
+![Asyncio](https://shields.io) ![Pydantic](https://shields.io) ![SQLAlchemy](https://shields.io) ![Alembic](https://shields.io) ![Celery](https://shields.io) ![Pytest](https://shields.io) ![JWT](https://shields.io) ![Aiogram](https://shields.io)
 
-<!-- Текстовые плашки (бирюзовый цвет) -->
-<div>
-  <img src="https://shields.io" alt="Asyncio" style="margin-right: 5px;"/>
-  <img src="https://shields.io" alt="Pydantic" style="margin-right: 5px;"/>
-  <img src="https://shields.io" alt="SQLAlchemy" style="margin-right: 5px;"/>
-  <img src="https://shields.io" alt="Alembic" style="margin-right: 5px;"/>
-  <img src="https://shields.io" alt="Celery" style="margin-right: 5px;"/>
-  <img src="https://shields.io" alt="Pytest" style="margin-right: 5px;"/>
-  <img src="https://shields.io" alt="JWT" style="margin-right: 5px;"/>
-  <img src="https://shields.io" alt="Aiogram" style="margin-right: 5px;"/>
-</div>
+![Telegram Mini Apps](https://shields.io) ![LLM](https://shields.io)
 
-<br/>
-
-<div>
-  <img src="https://shields.io" alt="Telegram Mini Apps" style="margin-right: 5px;"/>
-  <img src="https://shields.io" alt="LLM" style="margin-right: 5px;"/>
-</div>
 
 
 
