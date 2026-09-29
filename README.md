@@ -41,8 +41,6 @@
 </p>
 
 
-<br />
-
 <!-- Нижний ряд: Плоские бирюзовые плашки (стиль Flat-Square, цвет #008080) -->
 <p>
   <img src="https://img.shields.io/badge/_ASYNCIO-008080?style=flat-square&logo=python&logoColor=white" alt="Asyncio" />
