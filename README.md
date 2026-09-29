@@ -27,18 +27,7 @@
 
 <h3>🛠 Tech Stack</h3>
 
-<p>
-  <img src="https://githubusercontent.com" width="40" height="40" alt="Python" style="margin-right: 10px;" />
-  <img src="https://githubusercontent.com" width="40" height="40" alt="FastAPI" style="margin-right: 10px;" />
-  <img src="https://githubusercontent.com" width="40" height="40" alt="Django" style="margin-right: 10px;" />
-  <img src="https://githubusercontent.com" width="40" height="40" alt="PostgreSQL" style="margin-right: 10px;" />
-  <img src="https://githubusercontent.com" width="40" height="40" alt="Redis" style="margin-right: 10px;" />
-  <img src="https://githubusercontent.com" width="40" height="40" alt="Docker" style="margin-right: 10px;" />
-  <img src="https://githubusercontent.com" width="40" height="40" alt="Git" style="margin-right: 10px;" />
-  <img src="https://githubusercontent.com" width="40" height="40" alt="GitHub" style="margin-right: 10px;" />
-  <img src="https://githubusercontent.com" width="40" height="40" alt="Postman" style="margin-right: 10px;" />
-  <img src="https://githubusercontent.com" width="40" height="40" alt="Linux" style="margin-right: 10px;" />
-</p>
+<img alt="Static Badge" src="https://img.shields.io/badge/:badgeContent">
 
 
 
