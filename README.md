@@ -1,52 +1,69 @@
- # Привет, я Денис 👋
-  
-  **Python Backend Developer | AI Integrator**
-  
-  Строю API и интегрирую AI в реальные продукты
-  
-  [![Telegram](https://img.shields.io/badge/Telegram-@ImDenis3_9-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/ImDenis3_9)
-  [![IT Channel](https://img.shields.io/badge/IT–канал-The_Algorithms_Corner-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/The_Algorithms_Corner)
+<div align="center">
+
+# Привет, я Денис 👋
+
+**Python Backend Developer | LLM Integrator**
+
+Строю API и интегрирую AI в реальные продукты
+
+[![Telegram](https://img.shields.io/badge/Telegram-@ImDenis3_9-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/ImDenis3_9)
+[![IT Channel](https://img.shields.io/badge/IT–канал-The_Algorithms_Corner-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/The_Algorithms_Corner)
+
 </div>
 
 ---
 
-## 🛠 Стек
+## 👋 Обо мне
 
-<table>
-  <tr>
-    <td align="center"><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/></td>
-    <td align="center"><img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/></td>
-    <td align="center"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white"/></td>
-    <td align="center"><img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white"/></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat&logo=python&logoColor=white"/></td>
-    <td align="center"><img src="https://img.shields.io/badge/Alembic-6BA81E?style=flat&logo=python&logoColor=white"/></td>
-    <td align="center"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/></td>
-    <td align="center"><img src="https://img.shields.io/badge/Celery-37814A?style=flat&logo=celery&logoColor=white"/></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://img.shields.io/badge/Pytest-0A9EDC?style=flat&logo=pytest&logoColor=white"/></td>
-    <td align="center"><img src="https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white"/></td>
-    <td align="center"><img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/></td>
-    <td align="center"><img src="https://img.shields.io/badge/LLM_API-412991?style=flat&logo=openai&logoColor=white"/></td>
-  </tr>
-</table>
+Я **Python Backend Developer** и **LLM Integrator**.  
+Моя база - Python backend: API, базы данных, асинхронные сервисы и фоновые задачи.  
+Параллельно разрабатываю собственный продукт и интегрирую LLM в реальные задачи.
+
+- 💼 **Открыт к предложениям о работе backend-разработчиком**
+- 🤖 В данный момент углубляюсь в разработку решений на базе ИИ: большие языковые модели (LLM), ИИ-агенты, интеграции.
+- 📢 Веду [IT-канал](https://t.me/The_Algorithms_Corner) про разработку и технологии
 
 ---
 
-## 🚀 Проекты
+## 🛠 Tech Stack
 
-### 🔍 [Сервис_автоматического_сбора_отзывов_и_мониторинга_репутаций (Совместный проект)](https://github.com/dennis393/Automated_review_collection_and_reputation_monitoring_service)
-Автоматический сбор отзывов с площадок, AI-генерация черновиков ответов, Telegram-интеграция.  
-`Python`, `FastAPI`, `SQLAlchemy ORM(async)`, `Alembic`, `JWT(Fernet(cryptography)`, `bcript`, `Celery`, `Redis`, `aiogram`, `LLM API`, `PostgreSQL`,`react + vite`
+<div align="center">
 
-### [AI Chatbot в Telegram](https://github.com/dennis393/Ai-chatbot-in-telegram)
-Телеграм-бот с интегрированным AI, поддержка контекста диалога и истории переписки.  
-`Python`, `FastAPI`, `PostgreSQL`, `aiogram` `LLM API` `SQLAlchemy ORM`
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
-### ✅ [Task Manager API](https://github.com/dennis393/task-manager-api)
-REST API для управления задачами с JWT-аутентификацией.  
-`Python`, `FastAPI` `SQLAlchemy ORM` `JWT` `PostgreSQL`
+<br/>
 
+![ASYNCIO](https://img.shields.io/badge/ASYNCIO-00897B?style=for-the-badge&logo=python&logoColor=white)
+![SQLALCHEMY](https://img.shields.io/badge/SQLALCHEMY-00897B?style=for-the-badge&logo=python&logoColor=white)
+
+![ALEMBIC](https://img.shields.io/badge/ALEMBIC-00897B?style=for-the-badge&logo=python&logoColor=white)
+![CELERY](https://img.shields.io/badge/CELERY-00897B?style=for-the-badge&logo=celery&logoColor=white)
+
+![PYTEST](https://img.shields.io/badge/PYTEST-00897B?style=for-the-badge&logo=pytest&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-00897B?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![OOP](https://img.shields.io/badge/OOP-00897B?style=for-the-badge&logo=python&logoColor=white)
+
+![AIOGRAM](https://img.shields.io/badge/AIOGRAM-00897B?style=for-the-badge&logo=telegram&logoColor=white)
+![LLM API](https://img.shields.io/badge/LLM_API-00897B?style=for-the-badge&logo=openai&logoColor=white)
+
+</div>
+
+<br/>
+
+| Область | Технологии |
+|------|-------------|
+| **Backend** | Python · FastAPI · Asyncio · Pydantic |
+| **Базы данных** | PostgreSQL · SQLite · SQLAlchemy · Alembic |
+| **Фоновые задачи** | Celery · Redis |
+| **Боты** | aiogram |
+| **AI** | LLM API (OpenRouter) |
+| **Тестирование** | Pytest |
+| **DevOps** | Docker · Git |
 
