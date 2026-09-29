@@ -25,15 +25,47 @@
 
 ---
 
-### 🛠 Tech Stack
+<h3>🛠 Tech Stack</h3>
 
-![Python](https://shields.io) ![FastAPI](https://shields.io) ![Django](https://shields.io) ![PostgreSQL](https://shields.io) ![Redis](https://shields.io) ![Docker](https://shields.io) ![Git](https://shields.io) ![GitHub](https://shields.io) ![Postman](https://shields.io) ![Linux](https://shields.io)
+<table>
+  <tr>
+    <td>
+      <img src="https://shields.io" alt="Python" />
+      <img src="https://shields.io" alt="FastAPI" />
+      <img src="https://shields.io" alt="Django" />
+      <img src="https://shields.io" alt="PostgreSQL" />
+      <img src="https://shields.io" alt="Redis" />
+      <img src="https://shields.io" alt="Docker" />
+      <img src="https://shields.io" alt="Git" />
+      <img src="https://shields.io" alt="GitHub" />
+      <img src="https://shields.io" alt="Postman" />
+      <img src="https://shields.io" alt="Linux" />
+    </td>
+  </tr>
+</table>
 
 <br />
 
-![Asyncio](https://shields.io) ![Pydantic](https://shields.io) ![SQLAlchemy](https://shields.io) ![Alembic](https://shields.io) ![Celery](https://shields.io) ![Pytest](https://shields.io) ![JWT](https://shields.io) ![Aiogram](https://shields.io)
-
-![Telegram Mini Apps](https://shields.io) ![LLM](https://shields.io)
+<table>
+  <tr>
+    <td>
+      <img src="https://shields.io" alt="Asyncio" />
+      <img src="https://shields.io" alt="Pydantic" />
+      <img src="https://shields.io" alt="SQLAlchemy" />
+      <img src="https://shields.io" alt="Alembic" />
+      <img src="https://shields.io" alt="Celery" />
+      <img src="https://shields.io" alt="Pytest" />
+      <img src="https://shields.io" alt="JWT" />
+      <img src="https://shields.io" alt="Aiogram" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://shields.io" alt="Telegram Mini Apps" />
+      <img src="https://shields.io" alt="LLM" />
+    </td>
+  </tr>
+</table>
 
 
 
