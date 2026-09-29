@@ -45,14 +45,14 @@
 
 <!-- Нижний ряд: Плоские бирюзовые плашки (стиль Flat-Square, цвет #008080) -->
 <p>
-  <img src="https://img.shields.io/badge/—_ASYNCIO-008080?style=flat-square&logo=python&logoColor=white" alt="Asyncio" />
-  <img src="https://img.shields.io/badge/—_PYDANTIC-008080?style=flat-square&logo=pydantic&logoColor=white" alt="Pydantic" />
-  <img src="https://img.shields.io/badge/—_SQLALCHEMY-008080?style=flat-square&logo=databricks&logoColor=white" alt="SQLAlchemy" />
-  <img src="https://img.shields.io/badge/—_ALEMBIC-008080?style=flat-square&logo=python&logoColor=white" alt="Alembic" />
-  <img src="https://img.shields.io/badge/—_CELERY-008080?style=flat-square&logo=celery&logoColor=white" alt="Celery" />
-  <img src="https://img.shields.io/badge/—_PYTEST-008080?style=flat-square&logo=pytest&logoColor=white" alt="Pytest" />
-  <img src="https://img.shields.io/badge/—_JWT-008080?style=flat-square&logo=json-web-tokens&logoColor=white" alt="JWT" />
-  <img src="https://img.shields.io/badge/—_AIOGRAM-008080?style=flat-square&logo=telegram&logoColor=white" alt="Aiogram" />
+  <img src="https://img.shields.io/badge/_ASYNCIO-008080?style=flat-square&logo=python&logoColor=white" alt="Asyncio" />
+  <img src="https://img.shields.io/badge/_PYDANTIC-008080?style=flat-square&logo=pydantic&logoColor=white" alt="Pydantic" />
+  <img src="https://img.shields.io/badge/_SQLALCHEMY-008080?style=flat-square&logo=databricks&logoColor=white" alt="SQLAlchemy" />
+  <img src="https://img.shields.io/badge/_ALEMBIC-008080?style=flat-square&logo=python&logoColor=white" alt="Alembic" />
+  <img src="https://img.shields.io/badge/_CELERY-008080?style=flat-square&logo=celery&logoColor=white" alt="Celery" />
+  <img src="https://img.shields.io/badge/_PYTEST-008080?style=flat-square&logo=pytest&logoColor=white" alt="Pytest" />
+  <img src="https://img.shields.io/badge/_JWT-008080?style=flat-square&logo=json-web-tokens&logoColor=white" alt="JWT" />
+  <img src="https://img.shields.io/badge/_AIOGRAM-008080?style=flat-square&logo=telegram&logoColor=white" alt="Aiogram" />
 </p>
 
 <p>
