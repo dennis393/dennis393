@@ -1,6 +1,6 @@
 <div align="center">
 
-# Привет, я Денис 👋
+# Привет, я Денис ✌️
 
 **Python Backend Developer | LLM Integrator**
 
