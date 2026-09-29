@@ -28,7 +28,7 @@
 # 🛠 Tech Stack
 
 <p align="center">
-  <img src="./https://skillicons.dev" width="600" alt="Python, FastAPI, PostgreSQL, Redis, Docker, Git, GitHub" />
+  <img src="https://skillicons.dev" width="600" alt="Python, FastAPI, PostgreSQL, Redis, Docker, Git, GitHub" />
 </p>
 
 <p align="center">
