@@ -6,8 +6,9 @@
 
 Строю API и интегрирую AI в реальные продукты
 
-[![Telegram](https://img.shields.io/badge/Telegram-@ImDenis3_9-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/ImDenis3_9)
-[![IT Channel](https://img.shields.io/badge/IT–канал-The_Algorithms_Corner-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/The_Algorithms_Corner)
+<a href="https://t.me/ImDenis3_9">
+  <img src="./telegram.svg" width="200" alt="Telegram">
+</a>
 
 </div>
 
