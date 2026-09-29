@@ -27,45 +27,19 @@
 
 <h3>🛠 Tech Stack</h3>
 
-<table>
-  <tr>
-    <td>
-      <img src="https://shields.io" alt="Python" />
-      <img src="https://shields.io" alt="FastAPI" />
-      <img src="https://shields.io" alt="Django" />
-      <img src="https://shields.io" alt="PostgreSQL" />
-      <img src="https://shields.io" alt="Redis" />
-      <img src="https://shields.io" alt="Docker" />
-      <img src="https://shields.io" alt="Git" />
-      <img src="https://shields.io" alt="GitHub" />
-      <img src="https://shields.io" alt="Postman" />
-      <img src="https://shields.io" alt="Linux" />
-    </td>
-  </tr>
-</table>
+<p>
+  <img src="https://githubusercontent.com" width="40" height="40" alt="Python" style="margin-right: 10px;" />
+  <img src="https://githubusercontent.com" width="40" height="40" alt="FastAPI" style="margin-right: 10px;" />
+  <img src="https://githubusercontent.com" width="40" height="40" alt="Django" style="margin-right: 10px;" />
+  <img src="https://githubusercontent.com" width="40" height="40" alt="PostgreSQL" style="margin-right: 10px;" />
+  <img src="https://githubusercontent.com" width="40" height="40" alt="Redis" style="margin-right: 10px;" />
+  <img src="https://githubusercontent.com" width="40" height="40" alt="Docker" style="margin-right: 10px;" />
+  <img src="https://githubusercontent.com" width="40" height="40" alt="Git" style="margin-right: 10px;" />
+  <img src="https://githubusercontent.com" width="40" height="40" alt="GitHub" style="margin-right: 10px;" />
+  <img src="https://githubusercontent.com" width="40" height="40" alt="Postman" style="margin-right: 10px;" />
+  <img src="https://githubusercontent.com" width="40" height="40" alt="Linux" style="margin-right: 10px;" />
+</p>
 
-<br />
-
-<table>
-  <tr>
-    <td>
-      <img src="https://shields.io" alt="Asyncio" />
-      <img src="https://shields.io" alt="Pydantic" />
-      <img src="https://shields.io" alt="SQLAlchemy" />
-      <img src="https://shields.io" alt="Alembic" />
-      <img src="https://shields.io" alt="Celery" />
-      <img src="https://shields.io" alt="Pytest" />
-      <img src="https://shields.io" alt="JWT" />
-      <img src="https://shields.io" alt="Aiogram" />
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://shields.io" alt="Telegram Mini Apps" />
-      <img src="https://shields.io" alt="LLM" />
-    </td>
-  </tr>
-</table>
 
 
 
