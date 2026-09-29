@@ -25,37 +25,38 @@
 
 ---
 
-## 🛠 Tech Stack
+### 🛠 Tech Stack
 
-<div align="center">
+<p align="left">
+  <img src="https://shields.io" alt="Python" />
+  <img src="https://shields.io" alt="FastAPI" />
+  <img src="https://shields.io" alt="Django" />
+  <img src="https://shields.io" alt="PostgreSQL" />
+  <img src="https://shields.io" alt="Redis" />
+  <img src="https://shields.io" alt="Docker" />
+  <img src="https://shields.io" alt="Git" />
+  <img src="https://shields.io" alt="GitHub" />
+  <img src="https://shields.io" alt="Postman" />
+  <img src="https://shields.io" alt="Linux" />
+</p>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+<!-- Текстовые плашки (бирюзовый цвет) -->
+<p align="left">
+  <img src="https://shields.io" alt="Asyncio" />
+  <img src="https://shields.io" alt="Pydantic" />
+  <img src="https://shields.io" alt="SQLAlchemy" />
+  <img src="https://shields.io" alt="Alembic" />
+  <img src="https://shields.io" alt="Celery" />
+  <img src="https://shields.io" alt="Pytest" />
+  <img src="https://shields.io" alt="JWT" />
+  <img src="https://shields.io" alt="Aiogram" />
+</p>
 
-<br/>
+<p align="left">
+  <img src="https://shields.io" alt="Telegram Mini Apps" />
+  <img src="https://shields.io" alt="LLM" />
+</p>
 
-![ASYNCIO](https://img.shields.io/badge/ASYNCIO-00897B?style=for-the-badge&logo=python&logoColor=white)
-![SQLALCHEMY](https://img.shields.io/badge/SQLALCHEMY-00897B?style=for-the-badge&logo=python&logoColor=white)
-
-![ALEMBIC](https://img.shields.io/badge/ALEMBIC-00897B?style=for-the-badge&logo=python&logoColor=white)
-![CELERY](https://img.shields.io/badge/CELERY-00897B?style=for-the-badge&logo=celery&logoColor=white)
-
-![PYTEST](https://img.shields.io/badge/PYTEST-00897B?style=for-the-badge&logo=pytest&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-00897B?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![OOP](https://img.shields.io/badge/OOP-00897B?style=for-the-badge&logo=python&logoColor=white)
-
-![AIOGRAM](https://img.shields.io/badge/AIOGRAM-00897B?style=for-the-badge&logo=telegram&logoColor=white)
-![LLM API](https://img.shields.io/badge/LLM_API-00897B?style=for-the-badge&logo=openai&logoColor=white)
-
-</div>
-
-<br/>
 
 | Область | Технологии |
 |------|-------------|
