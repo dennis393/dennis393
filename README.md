@@ -9,6 +9,9 @@
 <a href="https://t.me/ImDenis3_9">
   <img src="./telegram.svg" width="100" alt="Telegram">
 </a>
+ <a href="denispris14@gmail.com">
+    <img src="./mail.svg" width="100" alt="Email">
+  </a>
 
 </div>
 
