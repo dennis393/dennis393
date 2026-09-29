@@ -28,7 +28,7 @@
 # 🛠 Tech Stack
 
 <p align="center">
-  <img src="./stack.svg" width="600" alt="Python, FastAPI, PostgreSQL, Redis, Docker, Git, GitHub" />
+  <img src="./stack.svg" width="600" alt="Python, FastAPI, PostgreSQL, Redis, Docker, Git, GitHub, алгоритмы и структуры данных, LLM API, JWT, Alembic, SQLAlchemy, pytest, async" />
 </p>
 
 <p align="center">
